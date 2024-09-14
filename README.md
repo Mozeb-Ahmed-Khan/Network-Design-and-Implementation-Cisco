@@ -39,7 +39,7 @@ In this semester project, we designed and implemented a comprehensive network us
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Network-Design-and-Implementation-Cisco.git
+   git clone https://github.com/Mozeb-Ahmed-Khan/Network-Design-and-Implementation-Cisco.git
 
 2. **Navigate to the Project Directory**:
    ```bash
